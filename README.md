@@ -64,15 +64,15 @@
 
 ### index15.html - 공지사항
 
-<img src="https://user-images.githubusercontent.com/54027716/151410611-647f3030-5e5b-46fc-b901-cd92553c2f54.png" align="center">
+<img src="https://user-images.githubusercontent.com/54027716/151410611-647f3030-5e5b-46fc-b901-cd92553c2f54.png" align="center" width="350">
 
 ### index16.html - 메가박스 할인카드
 
-<img src="https://user-images.githubusercontent.com/54027716/151410664-d5ff20a3-bde4-4d8e-a6a4-db465ab4d6dc.png" align="center">
+<img src="https://user-images.githubusercontent.com/54027716/151410664-d5ff20a3-bde4-4d8e-a6a4-db465ab4d6dc.png" align="center" width="350">
 
 ### index17.html - 고객센터/SVG
 
-<img src="https://user-images.githubusercontent.com/54027716/151410691-50eb6e9c-b6bb-4bb3-915c-d532324ca0b4.png" align="center" width="200">
+<img src="https://user-images.githubusercontent.com/54027716/151410691-50eb6e9c-b6bb-4bb3-915c-d532324ca0b4.png" align="center" width="350">
 
 ### index18.html - 헬프 영역 반응형
 <strong align="left">max-width: 1024px</strong>
