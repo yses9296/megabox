@@ -66,17 +66,17 @@
 <img src="https://user-images.githubusercontent.com/54027716/151410871-7edddb2e-8545-46e0-9722-b709703a8656.png" align="center">
 
 ### index15.html - 공지사항
-<p align="right">
+<p align="center">
 <img src="https://user-images.githubusercontent.com/54027716/151410611-647f3030-5e5b-46fc-b901-cd92553c2f54.png" align="center" width="350">
 </p>
 
 ### index16.html - 메가박스 할인카드
-<p align="right">
+<p align="center">
 <img src="https://user-images.githubusercontent.com/54027716/151410664-d5ff20a3-bde4-4d8e-a6a4-db465ab4d6dc.png" align="center" width="350">
 </p>
 
 ### index17.html - 고객센터/SVG
-<p align="right">
+<p align="center">
 <img src="https://user-images.githubusercontent.com/54027716/151410691-50eb6e9c-b6bb-4bb3-915c-d532324ca0b4.png" align="center" width="350">
 </p>
 
