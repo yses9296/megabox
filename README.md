@@ -96,6 +96,6 @@
 <img src="https://user-images.githubusercontent.com/54027716/151588112-e097b1c0-c199-471c-b406-69a675705d00.png" align="center">
 
 <strong align="left">max-width: 768px</strong>
-<img src="https://user-images.githubusercontent.com/54027716/151588046-b2c70f05-be76-43b3-8bb7-04919dd95144.png" align="center" width="400">
+<img src="https://user-images.githubusercontent.com/54027716/151588046-b2c70f05-be76-43b3-8bb7-04919dd95144.png" align="center" width="700">
 
 ...
