@@ -74,4 +74,18 @@
 
 <img src="https://user-images.githubusercontent.com/54027716/151410691-50eb6e9c-b6bb-4bb3-915c-d532324ca0b4.png" align="center">
 
+### index18.html - 헬프 영역 반응형
+<strong align="left">max-width: 1024px</strong>
+<img src="https://user-images.githubusercontent.com/54027716/151587696-d5f809a9-2d87-41f2-8f2c-90ce516d7fa2.png" align="center">
+
+<strong align="left">max-width: 768px</strong>
+<img src="https://user-images.githubusercontent.com/54027716/151587798-9a36ee99-450f-4781-89bd-1bc9104c5e13.png" align="center">
+
+### index19.html - 푸터 영역
+<strong align="left">max-width: 1024px</strong>
+<img src="https://user-images.githubusercontent.com/54027716/151588112-e097b1c0-c199-471c-b406-69a675705d00.png" align="center">
+
+<strong align="left">max-width: 768px</strong>
+<img src="https://user-images.githubusercontent.com/54027716/151588046-b2c70f05-be76-43b3-8bb7-04919dd95144.png" align="center">
+
 ...
