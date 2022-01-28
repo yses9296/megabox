@@ -27,12 +27,12 @@
 <img src="https://user-images.githubusercontent.com/54027716/149136011-fcdcb65d-65c8-4d73-a600-2bc22e86a822.png" align="center">
 
 <strong align="left">max-width: 960px</strong>
-<p align="center>
+<p align="center">
 <img src="https://user-images.githubusercontent.com/54027716/149136135-d2384904-0b47-4241-a3b7-443a2f4445e3.png" width=960px />
 </p>
 
 <strong align="left">max-width: 600px</strong><br>
-<p align="center>
+<p align="center">
 <img src="https://user-images.githubusercontent.com/54027716/149136259-0a0fbe5a-59db-41ac-b7c6-8c3f3a29fd68.png" width=600px />
 </p>
 
