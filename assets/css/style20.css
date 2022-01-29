@@ -3,7 +3,8 @@
 /* 스킵 메뉴 */
 #skip {position: relative;}
 #skip a {position: absolute; left: 0; top: -40px; width: 140px; line-height: 30px; border: 1px solid #fff; color: #fff; text-align: center; background: #333;}
-#skip a:active, #skip a:focus {top: 0;}
+#skip a:active,
+#skip a:focus {top: 0;}
 
 
 /* 레이아웃 */
