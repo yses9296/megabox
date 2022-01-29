@@ -1447,23 +1447,23 @@ movBtn.click(function(e){
     movCont.css("display","none");
     movCont.eq(index).css("display","block");
 });
-        
-        //공지사항 탭 메뉴
+               
+//공지사항 탭 메뉴
 var tabMenu = $(".notice");
 
-//컨텐츠 내용을 숨겨주세요!
-        tabMenu.find("ul > li > ul").hide();
-        tabMenu.find("li.active > ul").show();
+//컨텐츠 내용 숨기기
+tabMenu.find("ul > li > ul").hide();
+tabMenu.find("li.active > ul").show();
         
-        function tabList(e){
-            e.preventDefault();
-            var target = $(this);
-            target.next().show().parent("li").addClass("active").siblings("li").removeClass("active").find("ul").hide();
-            //버튼을 클릭하면 ~ul을 보여주고 부모의 li태그에 클래스 추카, 형제의 li태그에 클래스 제거, 제거한 자식의 ul 태그 숨김
-        }
+function tabList(e){
+    e.preventDefault();
+    var target = $(this);
+    target.next().show().parent("li").addClass("active").siblings("li").removeClass("active").find("ul").hide();
+    //버튼을 클릭하면 ~ul을 보여주고 부모의 li태그에 클래스 추카, 형제의 li태그에 클래스 제거, 제거한 자식의 ul 태그 숨김
+}
         
-        tabMenu.find("ul > li > a").click(tabList).focus(tabList); // 함수 실행
+tabMenu.find("ul > li > a").click(tabList).focus(tabList); // 함수 실행
         
-    </script>
+</script>
 </body>
 </html>
