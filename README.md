@@ -103,7 +103,7 @@
 
 ### index20.html - 탭 메뉴 / 스킵 메뉴
 <p align="center">
-<img src="https://user-images.githubusercontent.com/54027716/151655368-d73a12a9-dd22-4ede-bf89-01c528518b4c.gif"  width="700">
+<img src="https://user-images.githubusercontent.com/54027716/151655368-d73a12a9-dd22-4ede-bf89-01c528518b4c.gif"  width="300">
 </p>
 
 ...
