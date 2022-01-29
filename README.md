@@ -97,7 +97,13 @@
 <img src="https://user-images.githubusercontent.com/54027716/151588112-e097b1c0-c199-471c-b406-69a675705d00.png" align="center" width="800">
 </p><br>
 <strong align="left">max-width: 768px</strong><br>
- <p align="center">
+<p align="center">
 <img src="https://user-images.githubusercontent.com/54027716/151588046-b2c70f05-be76-43b3-8bb7-04919dd95144.png" align="center" width="700">
 </p>
+
+### index20.html - 탭 메뉴 / 스킵 메뉴
+<p align="center">
+<img src="https://user-images.githubusercontent.com/54027716/151655368-d73a12a9-dd22-4ede-bf89-01c528518b4c.gif"  width="700">
+</p>
+
 ...
